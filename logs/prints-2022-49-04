@@ -1,0 +1,4 @@
+22:49:59.572 [TestNG-tests-1] DEBUG freemarker.cache - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+22:49:59.836 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+22:49:59.841 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+22:49:59.845 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found

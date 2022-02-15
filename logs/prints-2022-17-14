@@ -1,0 +1,4 @@
+20:17:16.434 [TestNG-tests-1] DEBUG freemarker.cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+20:17:16.446 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+20:17:16.447 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+20:17:16.447 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found

@@ -1,0 +1,4 @@
+20:01:09.696 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+20:01:09.719 [TestNG-tests-1] DEBUG freemarker.cache - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+20:01:09.729 [TestNG-tests-1] DEBUG freemarker.cache - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+20:01:09.729 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found

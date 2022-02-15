@@ -1,0 +1,4 @@
+19:50:53.671 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+19:50:53.684 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+19:50:53.684 [TestNG-tests-3] DEBUG freemarker.cache - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/poorn/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+19:50:53.656 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found

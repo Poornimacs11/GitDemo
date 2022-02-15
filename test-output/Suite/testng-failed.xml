@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Academy.E2Eprojct.Listerners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Test for homepage(failed)">
+    <classes>
+      <class name="Academy.E2Eprojct.HomePageTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="homePageLogin"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Academy.E2Eprojct.HomePageTest -->
+    </classes>
+  </test> <!-- Test for homepage(failed) -->
+  <test thread-count="5" parallel="tests" name="Testing NavBar(failed)">
+    <classes>
+      <class name="Academy.E2Eprojct.ValidateNavBarTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="basePageNav"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Academy.E2Eprojct.ValidateNavBarTest -->
+    </classes>
+  </test> <!-- Testing NavBar(failed) -->
+  <test thread-count="5" parallel="tests" name="Testing title of page(failed)">
+    <classes>
+      <class name="Academy.E2Eprojct.TestTitle">
+        <methods>
+          <include name="titleCapture"/>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Academy.E2Eprojct.TestTitle -->
+    </classes>
+  </test> <!-- Testing title of page(failed) -->
+</suite> <!-- Failed suite [Suite] -->
